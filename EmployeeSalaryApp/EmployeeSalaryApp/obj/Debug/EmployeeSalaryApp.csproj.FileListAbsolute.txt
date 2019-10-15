@@ -1,0 +1,10 @@
+C:\Users\Gili Gili\source\repos\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+C:\Users\Gili Gili\source\repos\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+C:\Users\Gili Gili\source\repos\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+C:\Users\Gili Gili\source\repos\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csprojAssemblyReference.cache
+C:\Users\Gili Gili\source\repos\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.EmployeeSalaryApp.resources
+C:\Users\Gili Gili\source\repos\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+C:\Users\Gili Gili\source\repos\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.cache
+C:\Users\Gili Gili\source\repos\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.CoreCompileInputs.cache
+C:\Users\Gili Gili\source\repos\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+C:\Users\Gili Gili\source\repos\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
